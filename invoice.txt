@@ -1,0 +1,10 @@
+********** Invoice **********
+Order number: 1
+Customer ID: 2022-11-01 12:00:00 AM
+Trip: 1001
+Date: 1 Windsor
+Qty: 18
+Unit: trip
+Currency: CAD
+Amount: 6
+
