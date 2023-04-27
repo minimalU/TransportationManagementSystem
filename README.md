@@ -14,7 +14,7 @@ With TMS, shipping and logistics operations can be optimized, resulting in enhan
 
 ## Planner
 
-<img src="/tms.jpg">
+<img src="/planner.jpg" width="1000">
 
 
 ## ER Diagram
